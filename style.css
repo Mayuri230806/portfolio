@@ -1,0 +1,30 @@
+
+h3{
+    text-align:left;
+    text-decoration:underline;
+}
+h4{
+    text-align:left;
+  
+}
+body{
+    background-color:white;
+}
+section{
+color:black;
+margin:0%;
+padding: 0%;
+}
+h4{
+    color:black;
+}
+hr{
+    color:black;
+    font-size: larger;
+}
+article{
+    color:black;
+}
+border{
+    color:black;
+}
